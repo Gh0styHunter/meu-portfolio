@@ -27,7 +27,6 @@ Amass (OWASP Amass / ProjectDiscovery fork popular) é uma ferramenta de enumera
 - Instalar via `go install` ou pacotes pré-compilados / repositório oficial:
 ```bash
 go install -v github.com/owasp-amass/amass/v3/...@latest
-
 exit
 
 ## Opções / flags úteis (teórico)
