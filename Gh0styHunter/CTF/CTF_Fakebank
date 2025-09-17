@@ -1,12 +1,26 @@
-### 2. TryHackMe – CTF: FakeBank
-- **Data:** 10/09/2025
-- **Objetivo:** Enumeração de diretórios e exploração de aplicação web
-- **Ferramentas utilizadas:** Gobuster
-- **Atividades realizadas:**
-  - Uso de Gobuster para força bruta em diretórios e páginas ocultas do site FakeBank
-  - Identificação de página administrativa `/bank-transfer`
-  - Exploração ética da vulnerabilidade de transferência para testar segurança do app
-- **Resultados / aprendizado:**
-  - Compreensão prática de fuzzing e enumeração de diretórios
-  - Aplicação de técnicas de pentest web em ambiente seguro
-  - **Flag final obtida:** `BANK-HACKED`
+📑 Capture The Flag – TryHackMe FakeBank
+Plataforma: TryHackMe
+Máquina: FakeBank
+Data: 10/09/2025
+
+🔎 Reconhecimento
+Ferramentas utilizadas: Gobuster
+Notas teóricas: Aplicativo web FakeBank com diretórios ocultos
+Diretórios encontrados: /images (301), /bank-transfer (200)
+
+⚔️ Exploração
+Página vulnerável: /bank-transfer
+Descrição: Página administrativa de transferência bancária acessível sem autenticação
+Ação realizada: Transferência simulada de US$ 2.000 da conta 2276 para a conta 8881
+
+📂 Pós-exploração
+Comando / interação: Navegador acessando /bank-transfer
+Observação: Saldo da conta atualizado, evidenciando exploração ética
+
+🏆 Flag
+BANK-HACKED
+
+✅ Conclusão
+Vulnerabilidade: Página administrativa acessível sem restrições
+Impacto: Possível transferência não autorizada de fundos
+Mitigação: Restringir acesso a páginas administrativas, autenticação forte, validação de permissões
