@@ -1,10 +1,19 @@
-# Portfólio de Pentest e Bug Bount
+# GhostyHunter – Portfólio Teórico de Pentest
 
+Portfólio demonstrando estudo teórico de pentest, PoCs simuladas, relatórios profissionais e conhecimento em ferramentas de segurança.
 
-Este repositório reúne meus estudos, desafios práticos em Pentest e Bug Bounty, mostrando meu aprendizado em segurança ofensiva, testes de vulnerabilidade.
+## Habilidades
+- Vulnerabilidades Web: XSS, SQLi, CSRF, IDOR, LFI/RFI, Sensitive Data Exposure, API Security
+- Ferramentas: Burp Suite, Nmap, SQLmap, Nikto, OWASP ZAP, Postman, Nuclei
+- Conceitos: HTTP/HTTPS, TCP/IP, Headers de Segurança, Autenticação, Reconhecimento de Rede
+- Experiência em CTF: Hack The Box – Meow (Ponto de Partida)
 
+## Estrutura do Repositório
+- `/Notas` – Resumos teóricos por dia/atividade
+- `/Relatorios` – Simulações de relatórios de pentest
+- `/Vulnerabilidades` – Conceito, PoC teórica e mitigação
+- `/Ferramentas` – Documentação teórica de ferramentas
+- `/Certificados` – Lista de certificações
+- `/Flags` – PoCs teóricas ou exemplos de CTF
+- `/CTFs` – Relatórios completos de CTFs (ex: Meow)
 
-## Contato
-- GitHub: (github.com/Gh0styHunter)
-- LinkedIn: (linkedin.com/in/gh0sty-hunter-b2a2b3382)
-- Instagram: (instagram.com/gh0styhunter/)
