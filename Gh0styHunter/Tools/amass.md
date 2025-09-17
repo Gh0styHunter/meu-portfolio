@@ -51,7 +51,6 @@ enum — modo de enumeração principal (amass enum -d exemplo.com)
 
 -viz / gexf — exportar grafo para análise (Gephi)
 
---
 
 ## Exemplos de uso prático (teórico)
 
