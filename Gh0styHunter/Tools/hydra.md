@@ -39,10 +39,9 @@ Hydra (THC-Hydra) é uma ferramenta de força-bruta multi-protocolo para testar 
 
 ## Exemplos de uso teórico
 
-### 1) SSH (usuário único)
-```bash
+*1) SSH (usuário único)*
 hydra -l root -P /wordlists/rockyou.txt ssh://192.168.1.10 -t 4 -o hydra_ssh_out.txt
-2) FTP (lista de usuários e senhas)
+*2) FTP (lista de usuários e senhas)*
 bash
 Copiar código
 hydra -L users.txt -P passwords.txt ftp://ftp.example.com -t 8 -o hydra_ftp_out.txt
