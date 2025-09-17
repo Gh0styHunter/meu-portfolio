@@ -1,0 +1,12 @@
+### 2. TryHackMe – CTF: FakeBank
+- **Data:** 10/09/2025
+- **Objetivo:** Enumeração de diretórios e exploração de aplicação web
+- **Ferramentas utilizadas:** Gobuster
+- **Atividades realizadas:**
+  - Uso de Gobuster para força bruta em diretórios e páginas ocultas do site FakeBank
+  - Identificação de página administrativa `/bank-transfer`
+  - Exploração ética da vulnerabilidade de transferência para testar segurança do app
+- **Resultados / aprendizado:**
+  - Compreensão prática de fuzzing e enumeração de diretórios
+  - Aplicação de técnicas de pentest web em ambiente seguro
+  - **Flag final obtida:** `BANK-HACKED`
