@@ -28,6 +28,8 @@ Amass (OWASP Amass / ProjectDiscovery fork popular) é uma ferramenta de enumera
 ```bash
 go install -v github.com/owasp-amass/amass/v3/...@latest
 
+exit
+
 ## Opções / flags úteis (teórico)
 
 enum — modo de enumeração principal (amass enum -d exemplo.com)
