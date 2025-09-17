@@ -1,26 +1,26 @@
-📑 Capture The Flag – TryHackMe FakeBank
+## 📑 Capture The Flag – TryHackMe FakeBank
 Plataforma: TryHackMe
 Máquina: FakeBank
 Data: 10/09/2025
 
-🔎 Reconhecimento
+## 🔎 Reconhecimento
 Ferramentas utilizadas: Gobuster
 Notas teóricas: Aplicativo web FakeBank com diretórios ocultos
 Diretórios encontrados: /images (301), /bank-transfer (200)
 
-⚔️ Exploração
+## ⚔️ Exploração
 Página vulnerável: /bank-transfer
 Descrição: Página administrativa de transferência bancária acessível sem autenticação
 Ação realizada: Transferência simulada de US$ 2.000 da conta 2276 para a conta 8881
 
-📂 Pós-exploração
+## 📂 Pós-exploração
 Comando / interação: Navegador acessando /bank-transfer
 Observação: Saldo da conta atualizado, evidenciando exploração ética
 
-🏆 Flag
+## 🏆 Flag
 BANK-HACKED
 
-✅ Conclusão
+## ✅ Conclusão
 Vulnerabilidade: Página administrativa acessível sem restrições
 Impacto: Possível transferência não autorizada de fundos
 Mitigação: Restringir acesso a páginas administrativas, autenticação forte, validação de permissões
