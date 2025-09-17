@@ -11,4 +11,5 @@ Ferramenta de varredura de rede usada para descoberta de hosts, serviços e port
 
 **Exemplo de uso teórico:**  
 - nmap -sV 10.10.10.10
+
 Realiza varredura de serviços e versões no host alvo.
