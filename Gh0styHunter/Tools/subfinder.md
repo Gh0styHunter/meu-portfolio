@@ -27,7 +27,7 @@ go install github.com/projectdiscovery/subfinder/v2/cmd/subfinder@latest
 
 Configurar API keys em ~/.config/subfinder/config.yaml (opcional, mas recomendado).
 
-Flags / opções úteis
+##Flags / opções úteis
 -d <domain> — domínio alvo único
 
 -dL <file> — arquivo com lista de domínios
