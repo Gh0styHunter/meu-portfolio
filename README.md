@@ -18,7 +18,7 @@ Portfólio demonstrando estudo teórico de pentest, PoCs simuladas, relatórios 
 - `/CTFs` – Relatórios completos de CTFs (ex: Meow)
 
 ## Certificados
--	Cisco CyberOps Associate – Cisco - 2025
+-	CyberOps Associate – Cisco - 2025
 -	Fundamentos de Python – Cisco – 2024
 -	Conceitos Básicos de Redes – Cisco – 2024
 -	Introdução ao Pentest - Desec/Solyd - 2025
