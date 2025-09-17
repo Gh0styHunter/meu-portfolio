@@ -6,7 +6,7 @@ Portfólio demonstrando estudo teórico de pentest, PoCs simuladas, relatórios 
 - Vulnerabilidades Web: XSS, SQLi, CSRF, IDOR, LFI/RFI, Sensitive Data Exposure, API Security
 - Ferramentas: Burp Suite, Nmap, SQLmap, Nikto, OWASP ZAP, Postman, Nuclei
 - Conceitos: HTTP/HTTPS, TCP/IP, Headers de Segurança, Autenticação, Reconhecimento de Rede
-- Experiência em CTF: Hack The Box – Meow (Ponto de Partida)
+- Experiência em CTF: Hack The Box – Meow (Ponto de Partida) e Try Hacke me - FakeBank
 
 ## Estrutura do Repositório
 - `/Notas` – Resumos teóricos por dia/atividade
