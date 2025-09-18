@@ -4,7 +4,7 @@
 
 **📧 Email:** jacksonfelixbertolb@gmail.com / gh0styhunter.bugbounter@gmail.com
 
-**🔗 LinkedIn:** [linkedin.com/in/gh0styhunter](www.linkedin.com/in/gh0sty-hunter)  
+**🔗 LinkedIn:** [[linkedin.com/in/gh0styhunter](https://www.linkedin.com/in/gh0sty-hunter-b2a2b3382/)]
 
 **💻 GitHub:** [github.com/gh0styhunter](https://github.com/Gh0styHunter/meu-portfolio)
 
