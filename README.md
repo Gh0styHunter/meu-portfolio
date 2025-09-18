@@ -1,6 +1,6 @@
 # 💻 Portfolio de Pentest – Gh0styHunter
 
-**👤 Nickname:** Jackson / Gh0styHunter
+**👤 Nickname:** Jackson (Gh0styHunter)
 
 **📧 Email:** jacksonfelixbertolb@gmail.com / gh0styhunter.bugbounter@gmail.com
 
