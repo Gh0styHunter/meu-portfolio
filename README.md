@@ -49,6 +49,16 @@
 
 ---
 
+## 📌 Como usar este repositório
+
+- Abra `CTFs/` para ver cada lab com `notes.md`, `flag.txt` e `report.md`.
+- Em `Certificados/` coloque os PDFs para referência (opcional: links públicos).  
+- Em `Ferramentas/` há guias rápidos e comandos de uso.  
+- Em `Vulnerabilidades/` há documentação padrão por vulnerabilidade (descrição, PoC em alto nível, evidências e mitigações).  
+- Use `Portfolio-PDF/` para ter uma versão em PDF pronta para envio.
+
+---
+
 ## 📄 Observações Profissionais
 
 - 🏗 Experiência prática em **CTFs e laboratórios virtuais seguros**  
