@@ -93,7 +93,9 @@ BANK-HACKED
 
 ## 📜 Certificados
 
-- ![Selo Cisco]([link-para-imagem-do-selo](https://www.credly.com/badges/5fb44fac-9253-4310-aec3-07ee40f2a98b/public_url)) Cisco CyberOps Associate – Cisco – 2025  
+> Todas as certificações Cisco abaixo possuem selo oficial Cisco
+
+- Cisco CyberOps Associate – Cisco – 2025  
 - Fundamentos de Python – Cisco – 2024  
 - Conceitos Básicos de Redes – Cisco – 2024  
 - Introdução ao Pentest – Desec/Solyd – 2025  
