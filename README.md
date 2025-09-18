@@ -6,7 +6,7 @@
 
 **🔗 LinkedIn:** [[linkedin.com/in/gh0styhunter](https://www.linkedin.com/in/gh0sty-hunter-b2a2b3382/)]
 
-**💻 GitHub:** [github.com/gh0styhunter]([https://github.com/Gh0styHunter/meu-portfolio])
+**💻 GitHub:** [[github.com/gh0styhunter](https://github.com/Gh0styHunter/meu-portfolio)]
 
 ---
 
