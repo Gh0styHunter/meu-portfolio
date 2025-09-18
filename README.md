@@ -26,7 +26,7 @@
 | Recon / Subdomínios | Amass, Subfinder | Intermediário |
 | Recon / Rede | Nmap, Wireshark | Intermediário / Básico |
 | Web / APIs | FFUF, Burp Suite, Gobuster | Intermediário / Básico |
-| Brute-force | Hydra | Básico/Intermediário |
+| Brute-force | Hydra | Intermediário / Básico |
 
 ---
 
