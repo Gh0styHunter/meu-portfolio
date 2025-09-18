@@ -1,16 +1,16 @@
-# Lab-Teorico-XSS – Notas
+# Lab-Teorico-SQLi – Notas
 Data: 17/09/2025
 Plataforma: Teórica
-Lab: Cross-Site Scripting (XSS)
+Lab: SQL Injection
 
 ## 🔎 Reconhecimento
-- Identificação de campos de input em formulários web
-- Avaliação de possíveis pontos de injeção de scripts
+- Identificação de campos de input que interagem com banco de dados
+- Testes teóricos com payloads simples: ' OR '1'='1
 
 ## ⚔️ Exploração (teórica)
-- Payloads exemplo: <script>alert(1)</script>
-- Objetivo: simular execução de JavaScript não autorizado
+- Injeção de query em parâmetros GET/POST
+- Objetivo: leitura de dados não autorizados
 
 ## 📝 Observações
-- Aprendizado: Diferença entre Stored e Reflected XSS
-- Mitigação: Escapar caracteres, Content Security Policy (CSP)
+- Aprendizado: Blind vs Error-based SQLi
+- Mitigação: Prepared statements, validação de inputs
