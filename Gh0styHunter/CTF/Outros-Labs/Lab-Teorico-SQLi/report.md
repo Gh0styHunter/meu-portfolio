@@ -1,18 +1,18 @@
-# Relatório Resumido – Lab-Teorico-XSS
+# Relatório Resumido – Lab-Teorico-SQLi
 
 ## Descrição
-Estudo teórico de vulnerabilidade XSS.
+Estudo teórico de vulnerabilidade SQL Injection.
 
 ## Vulnerabilidade
-- Cross-Site Scripting (XSS) em formulários web
+- Injeção de comandos SQL em entradas de usuário
 
 ## Impacto
-- Execução de scripts no navegador do usuário
-- Possível roubo de cookies e sessão
+- Acesso não autorizado a dados do banco
+- Possível alteração ou exclusão de registros
 
 ## Mitigação
-- Sanitização de inputs
-- Uso de CSP
+- Prepared statements / ORM
+- Validação e sanitização de inputs
 
 ## Ferramentas
-- Navegador, Burp Suite (teórico)
+- SQLMap (teórico), navegador, Burp Suite
