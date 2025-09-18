@@ -1,8 +1,11 @@
 # 💻 Portfolio de Pentest – Gh0styHunter
 
 **👤 Nickname:** Gh0styHunter / Jackson
+
 **📧 Email:** jacksonfelixbertolb@gmail.com / gh0styhunter.bugbounter@gmail.com
+
 **🔗 LinkedIn:** [linkedin.com/in/gh0styhunter](www.linkedin.com/in/gh0sty-hunter)  
+
 **💻 GitHub:** [github.com/gh0styhunter](https://github.com/Gh0styHunter/meu-portfolio)
 
 ---
