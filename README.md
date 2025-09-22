@@ -41,7 +41,7 @@
 |------------------|-------|----------------|
 | Telnet sem senha | HTB Meow | Acesso root, mitigação e documentação de pentest |
 | Página administrativa sem restrição | FakeBank | Descoberta de diretórios ocultos, mitigação ética |
-| XSS | Lab Teórico | Stored e Reflected, mitigação CSP |
+| XSS | DVWA | Stored e Reflected, mitigação CSP |
 | SQL Injection | Lab Teórico | Tipos, testes GET/POST, mitigação |
 | Directory Traversal | Lab Teórico | Acesso a arquivos sensíveis, mitigação |
 | IDOR | Lab Teórico | Testes de objetos sem autorização, RBAC |
