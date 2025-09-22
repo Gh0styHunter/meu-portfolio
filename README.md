@@ -16,7 +16,7 @@
 |--------------|----------------|--------|---------------|--------|----------------|
 | HTB | Meow | 07/09/2025 | ping, Nmap, Telnet | b40abdfe23665f766f9c61ecba8a4c19 | Recon de rede, exploração Telnet sem senha, documentação de pentest |
 | TryHackMe | FakeBank | 10/09/2025 | Gobuster | BANK-HACKED | Descoberta de diretórios ocultos, exploração de página administrativa, mitigação ética |
-| Teórico | XSS | 17/09/2025 | Navegador, Burp Suite | XSS-TEORICO | Conceitos de Stored/Reflected XSS, mitigação e análise segura |
+| Teórico | XSS | 17/09/2025 | Navegador, Burp Suite | XSS-DVWA | Conceitos de Stored/Reflected XSS, mitigação e análise segura |
 | Teórico | SQLi | 17/09/2025 | SQLMap (teórico), Navegador | SQLI-TEORICO | Conceitos de SQL Injection, tipos e mitigação segura |
 | Teórico | Directory Traversal | 17/09/2025 | Navegador, Burp Suite | DIR-TRAV-TEORICO | Exploração de paths e mitigação |
 | Teórico | IDOR | 17/09/2025 | Navegador, Burp Suite | IDOR-TEORICO | Exploração de objetos sem autorização, RBAC |
