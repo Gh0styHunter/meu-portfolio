@@ -59,6 +59,7 @@
 - Conceitos Básicos de Redes – Cisco – 2024  
 - CCNA – Cisco – 2024  
 - Introdução ao Pentest – Desec/Solyd – 2025
+- CEH - Cisco - Cursando
 
 ---
 
