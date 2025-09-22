@@ -15,4 +15,4 @@ Estudo teórico de vulnerabilidade XSS.
 - Uso de CSP
 
 ## Ferramentas
-- Navegador, Burp Suite (teórico)
+- Navegador
