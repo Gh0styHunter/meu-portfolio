@@ -1,7 +1,7 @@
 # Vulnerabilidade: SQL Injection
 **Data:** 17/09/2025  
 **Plataforma:** DVWA 
-**Lab:** Lab-Teórico-SQLi  
+**Lab:** Lab-SQLi  
 
 ## 🔎 Descrição
 Falha em parâmetros que interagem com o banco de dados, permitindo injeção de comandos SQL.
