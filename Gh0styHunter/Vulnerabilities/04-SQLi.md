@@ -1,6 +1,6 @@
-# Vulnerabilidade: SQL Injection – Teórica
+# Vulnerabilidade: SQL Injection
 **Data:** 17/09/2025  
-**Plataforma:** Teórica  
+**Plataforma:** DVWA 
 **Lab:** Lab-Teórico-SQLi  
 
 ## 🔎 Descrição
@@ -19,4 +19,4 @@ Falha em parâmetros que interagem com o banco de dados, permitindo injeção de
 - Validação e sanitização de inputs
 
 ## 🛠 Ferramentas utilizadas
-- SQLMap (teórico), navegador, Burp Suite
+- SQLMap, navegador, Burp Suite
