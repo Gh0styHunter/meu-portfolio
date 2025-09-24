@@ -6,7 +6,7 @@
 ## 🔎 Descrição
 Falha em parâmetros que interagem com o banco de dados, permitindo injeção de comandos SQL.
 
-## ⚔️ Exploração (teórica)
+## ⚔️ Exploração
 - Testes em parâmetros GET/POST: `' OR '1'='1`  
 - Tipos estudados: Blind SQLi, Error-based SQLi
 
