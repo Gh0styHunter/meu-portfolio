@@ -43,7 +43,7 @@
 - Conceitos Básicos de Redes – Cisco – 2024  
 - CCNA – Cisco – 2024  
 - Introdução ao Pentest – Desec/Solyd – 2025
-- Certificate in Ethical Hacking - Cisco - Cursando
+- Certificate in Ethical Hacking - Cisco
 
 ---
 
